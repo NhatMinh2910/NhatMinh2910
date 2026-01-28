@@ -1,37 +1,30 @@
-# 👋 Hello, I'm Sajal!
+# 👋 Hello, I'm Nhat Minh
 
-## 🚀 AI/ML Engineer focusing on applied AI
+## 🚀 Data Analyst Fresher
 
-📍 **Singapore**  
-📧 **Email:** [contact@sajalsharma.com](mailto:contact@sajalsharma.com)  
-🔗 **LinkedIn:** [sajals](https://linkedin.com/in/sajals)  
-👨‍💻 **GitHub:** [sajal2692](https://github.com/sajal2692)
+📍 **Ho Chi Minh City, Vietnam**  
+📧 **Email:** [dtrnhatminh@Gmail.com](mailto:dtrnhatminh@Gmail.com)  
+🔗 **LinkedIn:** [Nhật Minh](https://linkedin.com/in/dtrnhatminh1002)  
+👨‍💻 **GitHub:** [Nhật Minh](https://github.com/NhatMinh2910)
 
 
 ### About Me 🌐
-Blending over 7 years of experience in ML, NLP, and Software Engineering, I transform data and language into impactful solutions and experiences.
+An enthusiastic novice data analyst passionate about learning, problem-solving, and uncovering meaningful business insights. 
 
-
-### Professional Highlights 🌟
-- **AI Engineer** - Menyala, Singapore (2024 - Present)
-- **Lead AI Engineer** - OneByZero, Singapore (2023 - 2024)
-- **Senior AI Engineer** - Splore, Singapore (2023)
-- **ML Engineer - NLP** - Unscrambl, India (2017 - 2022)
+### Experience and Projects 🌟
 
 
 ### Tech Toolbox 🛠️
-- **Languages:** Python, SQL, JavaScript, Ruby
-- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
-- **Tools:** AWS, GCP, Docker, Git
-- **Specialties:** LLMs, Generative AI, NLP, Search
+- **Languages:** Python, SQL, R-Programming
+- **Frameworks & Libraries:** Pandas, Matplotlib
+- **Tools:** Excel, PowerBI, Git
 
 ### Education 🎓
-- **Masters in IT**, The University of Melbourne
-- **Bachelors in Computer Applications**, Bhartiya Vidyapeeth University
+- **Bachelor in Data Science**, International University - Vietnam National University - HCMC
 
 ### Certifications 📜
-- **Coursera:** Deep Learning, Machine Learning, Mathematics for ML Specializations
-- **Udacity:** NLP, ML, React Nanodegrees
+- **Coursera:** Microsoft PowerBI Data Analyst
+- **IELTS Certificate** Overall score 7.5
 
-🔗 Let's ideate, innovate, and build cool expericnes with AI. Reach out for collaborations or simply to chat!
+
 
