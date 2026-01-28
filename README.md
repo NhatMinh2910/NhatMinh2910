@@ -24,7 +24,7 @@ An enthusiastic novice data analyst passionate about learning, problem-solving, 
 
 ### Certifications 📜
 - **Coursera:** Microsoft PowerBI Data Analyst
-- **IELTS Certificate** Overall score 7.5
+- **IELTS Certificate:** Overall score 7.5
 
 
 
