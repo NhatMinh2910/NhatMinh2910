@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello, I'm Sajal!
 
-<!--
-**NhatMinh2910/NhatMinh2910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI/ML Engineer focusing on applied AI
 
-Here are some ideas to get you started:
+📍 **Singapore**  
+📧 **Email:** [contact@sajalsharma.com](mailto:contact@sajalsharma.com)  
+🔗 **LinkedIn:** [sajals](https://linkedin.com/in/sajals)  
+👨‍💻 **GitHub:** [sajal2692](https://github.com/sajal2692)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About Me 🌐
+Blending over 7 years of experience in ML, NLP, and Software Engineering, I transform data and language into impactful solutions and experiences.
+
+
+### Professional Highlights 🌟
+- **AI Engineer** - Menyala, Singapore (2024 - Present)
+- **Lead AI Engineer** - OneByZero, Singapore (2023 - 2024)
+- **Senior AI Engineer** - Splore, Singapore (2023)
+- **ML Engineer - NLP** - Unscrambl, India (2017 - 2022)
+
+
+### Tech Toolbox 🛠️
+- **Languages:** Python, SQL, JavaScript, Ruby
+- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
+- **Tools:** AWS, GCP, Docker, Git
+- **Specialties:** LLMs, Generative AI, NLP, Search
+
+### Education 🎓
+- **Masters in IT**, The University of Melbourne
+- **Bachelors in Computer Applications**, Bhartiya Vidyapeeth University
+
+### Certifications 📜
+- **Coursera:** Deep Learning, Machine Learning, Mathematics for ML Specializations
+- **Udacity:** NLP, ML, React Nanodegrees
+
+🔗 Let's ideate, innovate, and build cool expericnes with AI. Reach out for collaborations or simply to chat!
+
