@@ -14,10 +14,13 @@ An enthusiastic novice data analyst passionate about learning, problem-solving, 
 ### Experience and Projects 🌟
 
 
-### Tech Toolbox 🛠️
-- **Languages:** Python, SQL, R-Programming
-- **Frameworks & Libraries:** Pandas, Matplotlib
-- **Tools:** Excel, PowerBI, Git
+### Technical Skills 🛠️
+- **Database Management:** MS SQL Server, MySQL
+- **Data Handling:** Python Pandas, R-Programming, Power Query, MS Excel
+- **Data Visualization:** Python(Matplotlib, Seaborn), PowerBI
+
+### General Skills 🌐
+Data analysis - Statistical analysis - Collaboration skills - Communication - Presentation skills - Time Management - Attention to detail - Critical thinking - English fluency
 
 ### Education 🎓
 - **Bachelor in Data Science**, International University - Vietnam National University - HCMC
