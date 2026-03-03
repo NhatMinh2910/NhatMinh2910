@@ -58,8 +58,7 @@ Responsibilities & Achievements:
 Data analysis - AI & Automation Tools - Statistical analysis - Collaboration skills - Communication - Presentation skills - Time Management - Attention to detail - Critical thinking - English fluency
 
 ### Education 🎓
-- **Bachelor in Data Science**, International University - Vietnam National University - HCMC
-
+- **International University - Vietnam National University - HCMC** - Bachelor of Data Science
 ### Certifications 📜
 - **Coursera:** Microsoft PowerBI Data Analyst
 - **IELTS Certificate:** Overall score 7.5
